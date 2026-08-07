@@ -121,6 +121,7 @@ The search field filters the loaded programs by matching the user's input agains
 
 ## 📂 Project Structure
 
+```text
 nextgen-landing-page/
 │
 ├── index.html
