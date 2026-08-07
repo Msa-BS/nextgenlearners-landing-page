@@ -121,7 +121,6 @@ The search field filters the loaded programs by matching the user's input agains
 
 ## 📂 Project Structure
 
-```text
 nextgen-landing-page/
 │
 ├── index.html
@@ -136,7 +135,7 @@ nextgen-landing-page/
 
 ## 👩‍💻 Author
 
-### **MuhadisaBatul**
+### **Muhadisa Batul**
 
 🎓 **BS Cyber Security**  
 🏫 **Dawood University of Engineering & Technology (DUET)**
