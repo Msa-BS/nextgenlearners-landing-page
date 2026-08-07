@@ -136,7 +136,7 @@ nextgen-landing-page/
 
 ## 👩‍💻 Author
 
-### **YOUR NAME**
+### **Muhadisa Batul**
 
 🎓 **BS Cyber Security**  
 🏫 **Dawood University of Engineering & Technology (DUET)**
