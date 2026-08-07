@@ -167,6 +167,4 @@ Week 3, Task 3**
 💼 **NextGenLearners Internship Program**  
 📌 **Week 3 · Task 3**
 
-> *Developed with dedication, creativity, and a passion for learning.* 💚
-
 ---
