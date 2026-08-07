@@ -71,12 +71,6 @@ The page includes a real-time search feature that allows users to search for pro
 
 The displayed program cards automatically update as the user types.
 
-For example:
-
-- Searching **Python** displays Data Science
-- Searching **Canva** displays Graphic Design
-- Searching **Web** displays Web Development
-
 ---
 
 ## 🛠️ Technologies Used
@@ -121,16 +115,45 @@ The search field filters the loaded programs by matching the user's input agains
 
 ## 📂 Project Structure
 
-```text
-nextgen-landing-page/
-│
-├── index.html
-├── programs.html
-├── style.css
-├── script.js
-├── script-program.js
-├── programs.json
-└── assets/
+    nextgen-landing-page/
+    ├── index.html
+    ├── programs.html
+    ├── style.css
+    ├── script.js
+    ├── script-program.js
+    ├── programs.json
+    └── assets/
+
+---
+
+## 📱 Responsive Design
+
+The page uses Bootstrap's responsive grid system so that the program cards adapt to different screen sizes, including:
+
+- Desktop
+- Tablet
+- Mobile
+
+---
+
+## 🎯 Project Goals
+
+This task focuses on practicing:
+
+- JSON data handling
+- JavaScript DOM manipulation
+- Fetch API
+- Array filtering
+- Dynamic HTML generation
+- Search functionality
+- Responsive web design
+
+---
+
+## 🚀 Project Status
+
+**Completed — NextGenLearners Internship  
+Week 3, Task 3**
 
 ---
 
@@ -144,5 +167,6 @@ nextgen-landing-page/
 💼 **NextGenLearners Internship Program**  
 📌 **Week 3 · Task 3**
 
+> *Developed with dedication, creativity, and a passion for learning.* 💚
 
 ---
