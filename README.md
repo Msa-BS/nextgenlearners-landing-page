@@ -136,11 +136,14 @@ nextgen-landing-page/
 
 ## 👩‍💻 Author
 
-### **Muhadisa Batul**
+### **YOUR NAME**
 
 🎓 **BS Cyber Security**  
 🏫 **Dawood University of Engineering & Technology (DUET)**
 
 💼 **NextGenLearners Internship Program**  
 📌 **Week 3 · Task 3**
+
+> *Developed with dedication, creativity, and a passion for learning.* 💚
+
 ---
