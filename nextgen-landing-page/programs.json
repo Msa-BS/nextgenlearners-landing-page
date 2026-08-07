@@ -1,0 +1,37 @@
+[
+    {
+        "domain": "Web Development",
+        "description": "Build modern websites and web applications while gaining practical experience in front-end development.",
+        "duration": "4 Weeks",
+        "skills": ["HTML", "CSS", "JavaScript"],
+        "applyLink": "index.html#apply"
+    },
+    {
+        "domain": "Graphic Design",
+        "description": "Develop creative design skills by working on visual content, branding, and digital graphics.",
+        "duration": "4 Weeks",
+        "skills": ["Photoshop", "Canva", "Branding"],
+        "applyLink": "index.html#apply"
+    },
+    {
+        "domain": "AI Tools & Prompt Engineering",
+        "description": "Learn how to use modern AI tools effectively and create powerful prompts for real-world applications.",
+        "duration": "4 Weeks",
+        "skills": ["AI Tools", "Prompt Engineering", "ChatGPT"],
+        "applyLink": "index.html#apply"
+    },
+    {
+        "domain": "Data Science",
+        "description": "Explore data analysis, visualization, and machine learning concepts through practical projects.",
+        "duration": "4 Weeks",
+        "skills": ["Python", "Data Analysis", "Machine Learning"],
+        "applyLink": "index.html#apply"
+    },
+    {
+        "domain": "Video Editing",
+        "description": "Learn professional video editing techniques and create engaging digital content.",
+        "duration": "4 Weeks",
+        "skills": ["Premiere Pro", "CapCut", "Video Editing"],
+        "applyLink": "index.html#apply"
+    }
+]
