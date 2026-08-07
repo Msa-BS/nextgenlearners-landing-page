@@ -143,6 +143,4 @@ nextgen-landing-page/
 
 💼 **NextGenLearners Internship Program**  
 📌 **Week 3 · Task 3**
-
 ---
-
